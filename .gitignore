@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.env
+.env.development
+.env.production
+.env.testing
+.prettierrc
+tmp
