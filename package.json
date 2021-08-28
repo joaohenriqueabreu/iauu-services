@@ -3,7 +3,7 @@
     "name": "iauu"
   },
   "license": "ISC",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "src/index.js",
   "name": "@iauu/services",
   "repository": {
@@ -11,8 +11,8 @@
     "url": "https://github.com/joaohenriqueabreu/iauu-services.git"
   },
   "dependencies": {
-    "@iauu/env": "1.0.0",
-    "@iauu/exceptions": "1.0.0",
+    "@iauu/env": "1.0.x",
+    "@iauu/exceptions": "1.0.x",
     "axios": "^0.21.1",
     "jwt-simple": "^0.5.6"
   }
